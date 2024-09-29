@@ -3,6 +3,7 @@ Current undergraduate student at the University of Alabama in Huntsville studyin
 
 ### Affiliated Organisations
 UAH - CRABLAB
+
 UAH - Space Hardware Club
 
 ### Main Projects
